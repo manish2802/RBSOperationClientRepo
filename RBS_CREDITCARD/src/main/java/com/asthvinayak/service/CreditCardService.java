@@ -1,6 +1,9 @@
 package com.asthvinayak.service;
 
-public class CreditCardService {
+import java.util.List;
 
-	
+import com.asthvinayak.bean.TransactionsDetailsDTO;;
+
+public interface CreditCardService {
+	public List<TransactionsDetailsDTO> gettransactionDetails(int i);
 }
