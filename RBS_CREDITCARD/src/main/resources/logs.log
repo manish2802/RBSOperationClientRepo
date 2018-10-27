@@ -1,0 +1,8 @@
+2018-10-16 15:49:57 DEBUG CreditCardDAOImpl:72 - Enter Into getCustomer in CreditCardDAOImpl
+2018-10-16 15:49:57 DEBUG CreditCardDAOImpl:95 - Exit from getCustomer in CreditCardDAOImpl
+2018-10-16 15:49:57 DEBUG CreditCardDAOImpl:101 - Enter Into getAllStatement in CreditCardDAOImpl
+2018-10-16 15:49:57 DEBUG CreditCardDAOImpl:133 - Exit from getAllStatement in CreditCardDAOImpl
+2018-10-16 16:04:55 DEBUG CreditCardDAOImpl:73 - Enter Into getCustomer in CreditCardDAOImpl
+2018-10-16 16:04:55 DEBUG CreditCardDAOImpl:96 - Exit from getCustomer in CreditCardDAOImpl
+2018-10-16 16:04:55 DEBUG CreditCardDAOImpl:102 - Enter Into getAllStatement in CreditCardDAOImpl
+2018-10-16 16:04:55 DEBUG CreditCardDAOImpl:134 - Exit from getAllStatement in CreditCardDAOImpl

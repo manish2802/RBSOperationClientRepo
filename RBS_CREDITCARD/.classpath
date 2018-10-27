@@ -17,16 +17,39 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_151">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/asm.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/jta.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/shyam/Jar File/hibernatejar/javax.ws.rs-api-2.0-m02.jar"/>
+	<classpathentry kind="lib" path="E:/jar/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/jar/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="E:/jar/poi-examples-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="E:/jar/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
